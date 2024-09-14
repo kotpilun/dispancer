@@ -1,0 +1,6 @@
+[submodule "dispancer-reports-front"]
+	path = dispancer-reports-front
+	url = https://github.com/kotpilun/dispancer-reports-front
+[submodule "dispancer-reports-middle"]
+	path = dispancer-reports-middle
+	url = https://github.com/kotpilun/dispancer-reports-middle
